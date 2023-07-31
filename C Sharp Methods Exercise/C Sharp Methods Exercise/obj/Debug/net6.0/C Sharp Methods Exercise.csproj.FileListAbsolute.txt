@@ -1,0 +1,15 @@
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\bin\Debug\net6.0\C Sharp Methods Exercise.exe
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\bin\Debug\net6.0\C Sharp Methods Exercise.deps.json
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\bin\Debug\net6.0\C Sharp Methods Exercise.runtimeconfig.json
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\bin\Debug\net6.0\C Sharp Methods Exercise.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\bin\Debug\net6.0\C Sharp Methods Exercise.pdb
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.csproj.AssemblyReference.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.AssemblyInfoInputs.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.AssemblyInfo.cs
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.csproj.CoreCompileInputs.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\refint\C Sharp Methods Exercise.dll
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.pdb
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\C Sharp Methods Exercise.genruntimeconfig.cache
+C:\Users\fastp\OneDrive\Desktop\repos2\C Sharp Methods Exercise\C Sharp Methods Exercise\obj\Debug\net6.0\ref\C Sharp Methods Exercise.dll
